@@ -26,9 +26,11 @@ $$S(t) = S(0)exp((\mu - \frac{1}{2}\sigma^{2})dt + \sigma dB(t))$$
 ## Roadmap Of Project:
 ### 1. Import closed prices of stocks from Yahoo Finance
 ### 2. Calculate Correlation and Covariance Matrix For Assets In Portfolio
+![image alt](https://github.com/chorleyenzo/Correlated-Multi-Asset-Monte-Carlo-GBM-Risk-Simulation/blob/663cd3c5d9ba3afc71cb56596e2183fa7bf355f9/Heatmap.jpg)
 ### 3. Set Parameters of Portfolio (Initial value of $10k, Equal asset weighting)
 ### 4. Define Geometric Brownian Motion Function And Correlate Normal Random Shocks
 ### 5. Simulate 10,000 Correlated Paths For Each Asset
+![image alt](
 ### 6. Plot Paths Of Each Assets Value Over Next 2 Trading Years
 ### 7. Plot Paths Of Overall Portfolio Value Over Next 2 Trading Years
 ### 8. Calculate Risk Metrics (Sharpe ratio, VaR, CVaR, Max drawdown and Probability of Loss)
