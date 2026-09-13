@@ -36,6 +36,7 @@ $$S(t) = S(0)exp((\mu - \frac{1}{2}\sigma^{2})dt + \sigma dB(t))$$
 ![img alt](https://github.com/chorleyenzo/Correlated-Multi-Asset-Monte-Carlo-GBM-Risk-Simulation/blob/cabf1757173af95249451226e26a73b1cab29710/Portfolio_paths.jpg)
 ### 8. Calculate Risk Metrics (Sharpe ratio, VaR, CVaR, Max drawdown and Probability of Loss)
 ### 9. Compare And Plot Histoircal And Simulated Daily Log Returns Distributions
+![image alt](https://github.com/chorleyenzo/Correlated-Multi-Asset-Monte-Carlo-GBM-Risk-Simulation/blob/cd377395d33c25b600ef6c719ee6559dbffdf327/Limitations.jpg)
   
   
   
