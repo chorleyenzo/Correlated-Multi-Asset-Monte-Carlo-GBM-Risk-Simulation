@@ -1,1 +1,1 @@
-# Correlated-Multi-Asset-Monte-Carlo-Risk-Simulation
+# Correlated-Multi-Asset-Monte-Carlo-(GBM)-Risk-Simulation
