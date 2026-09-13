@@ -33,6 +33,7 @@ $$S(t) = S(0)exp((\mu - \frac{1}{2}\sigma^{2})dt + \sigma dB(t))$$
 ### 6. Plot Paths Of Each Assets Value Over Next 2 Trading Years
 ![image alt](https://github.com/chorleyenzo/Correlated-Multi-Asset-Monte-Carlo-GBM-Risk-Simulation/blob/93c322ce129d5974018863e98f0cf72732690af7/Asset_price_paths.jpg)
 ### 7. Plot Paths Of Overall Portfolio Value Over Next 2 Trading Years
+![img alt](https://github.com/chorleyenzo/Correlated-Multi-Asset-Monte-Carlo-GBM-Risk-Simulation/blob/cabf1757173af95249451226e26a73b1cab29710/Portfolio_paths.jpg)
 ### 8. Calculate Risk Metrics (Sharpe ratio, VaR, CVaR, Max drawdown and Probability of Loss)
 ### 9. Compare And Plot Histoircal And Simulated Daily Log Returns Distributions
   
